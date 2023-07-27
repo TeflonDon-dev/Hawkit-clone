@@ -11,8 +11,8 @@ const Advertise = () => {
           <div className=' w-[120px]  h-[5px] rounded-md bg-gradient-to-r from-pink-500 to-indigo-700  '>
               
           </div>
-          <div className=' mb-3 mt-2 flex'>
-              <button className=' hover:bg-[#2f1a75] duration-300 rounded-sm text-sm  text-white px-6 py-3 bg-[#99a29b]'>CREATE FREE ACCOUNT</button>
+          <div className=' mb-3 mt-2 flex gap-2 justify-center items-center'>
+              <button className=' hover:bg-[#2f1a75] duration-300 rounded-sm text-sm  text-white px-6 py-3 bg-[#28A745]'>CREATE FREE ACCOUNT</button>
               <button className='hover:bg-[#2f1a75] hover:text-white ml-2 text-black duration-300 rounded-sm text-sm border-[1px] px-6 py-3'>LOG IN</button>
           </div>
            <div className=' flex gap-2 justify-center items-center'>

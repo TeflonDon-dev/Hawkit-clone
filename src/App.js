@@ -9,7 +9,7 @@ import Selling from "./pages/Selling";
 
 function App() {
   return (
-    <div className="w-full h-screen">
+    <div className="w-full overflow-hidden">
        <Nav />
       <Routes>
         <Route path='/' exact element={<Home />} />
